@@ -1,5 +1,5 @@
 <?php declare(strict_types=1);
-namespace laudirbispo\EasyRoutere\Exceptions;
+namespace laudirbispo\EasyRouter\Exceptions;
 /**
  * Copyright (c) Laudir Bispo  (laudirbispo@outlook.com)
  *
