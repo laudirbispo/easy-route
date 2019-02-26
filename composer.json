@@ -1,0 +1,22 @@
+{
+    "name": "laudirbispo/easy-route",
+    "description": "A simple router class",
+    "keywords": ["route", "mvc", "router", "url"],
+    "type": "library",
+	"version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Laudir Bispo",
+            "email": "laudirbispo@outlook.com",
+            "homepage": "https://www.facebook.com/laudirbispo"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"laudirbispo\\EasyRouter\\": "src"}
+    }, 
+    "require": {
+        "laudirbispo/classname": "^1.2.1"
+    }
+
+}
