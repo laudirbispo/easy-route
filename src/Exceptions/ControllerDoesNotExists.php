@@ -8,7 +8,7 @@ namespace laudirbispo\EasyRouter\Exceptions;
  * Redistributions of files must retain the above copyright notice.
  *
  * @copyright     (c) Laudir Bispo  (laudirbispo@outlook.com)
- * @version       1.0.0
+ * @version       1.0.1
  * @license       https://opensource.org/licenses/mit-license.php MIT License
  * @package       laudirbispo\EasyRouter
  */

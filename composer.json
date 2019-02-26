@@ -3,7 +3,7 @@
     "description": "A simple router class",
     "keywords": ["route", "mvc", "router", "url"],
     "type": "library",
-	"version": "1.0.0",
+	"version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
